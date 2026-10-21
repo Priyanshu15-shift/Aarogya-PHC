@@ -1,5 +1,3 @@
-<div align="center">
-<img width="1200" height="475" alt="Aarogya-PHC Banner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
 
 # 🏥 Aarogya-PHC
 
@@ -143,8 +141,3 @@ View the live AI Studio app: https://ai.studio/apps/c145aa0f-04a0-4f76-879e-81fd
 
 ---
 
-<div align="center">
-
-© 2026 Aarogya-PHC · Built for Google's "Build with AI: Code for Communities" hackathon
-
-</div>
